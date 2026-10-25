@@ -14,9 +14,14 @@ A collection of SQL interview questions, solutions, and edge-case analysis using
 
 ## Practice Questions
 
+
+## Practice Questions
+
 | No. | Question | Concepts |
 |---|---|---|
 | 1 | [Second-Highest Distinct Salary](questions/Q01-second-highest-salary.md) | DENSE_RANK, MAX, subqueries |
+| 2 | [Find Duplicate Email Addresses](questions/Q02-duplicate-emails.md) | GROUP BY, COUNT, HAVING |
+
 
 ## Solutions
 Solutions are stored in the `solutions/` directory.
