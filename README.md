@@ -1,2 +1,25 @@
-# sql-data-analyst-interview-prep
-50 SQL interview practice questions for Data Analyst roles, covering joins, aggregations, window functions, date analysis, funnels, cohorts, retention, and edge cases.
+
+# SQL Data Analyst Interview Preparation
+
+A collection of SQL interview questions, solutions, and edge-case analysis using MySQL.
+
+## Topics Covered
+- Filtering and aggregation
+- Joins and subqueries
+- Window functions
+- CTEs
+- Date and time analysis
+- Funnel and retention analysis
+- Edge cases
+
+## Practice Questions
+
+| No. | Question | Concepts |
+|---|---|---|
+| 1 | [Second-Highest Distinct Salary](questions/Q01-second-highest-salary.md) | DENSE_RANK, MAX, subqueries |
+
+## Solutions
+Solutions are stored in the `solutions/` directory.
+
+## Database
+Practice datasets and setup scripts will be added to the `database/` directory.
