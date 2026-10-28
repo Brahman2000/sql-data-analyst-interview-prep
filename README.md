@@ -24,6 +24,8 @@ A collection of SQL interview questions, solutions, and edge-case analysis using
 | 3 | [Calculate Monthly Revenue](questions/Q03-monthly-revenue.md) | DATE_FORMAT, SUM, GROUP BY |
 | 4 | [Customers with More Than Three Orders](questions/Q04-customers-more-than-three-orders.md) | GROUP BY, COUNT, HAVING |
 | 5 | [Find Products with No Sales](questions/Q05-products-with-no-sales.md) | RIGHT JOIN, NOT IN |
+| 6 | [Departments with Average Salary Above 60,000](questions/Q06-departments-average-salary.md) | AVG, GROUP BY, HAVING |
+
 
 
 
