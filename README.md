@@ -26,6 +26,8 @@ A collection of SQL interview questions, solutions, and edge-case analysis using
 | 5 | [Find Products with No Sales](questions/Q05-products-with-no-sales.md) | RIGHT JOIN, NOT IN |
 | 6 | [Departments with Average Salary Above 60,000](questions/Q06-departments-average-salary.md) | AVG, GROUP BY, HAVING |
 | 7 | [Calculate the Cancellation Rate](questions/Q07-cancellation-rate.md) | CASE, COUNT, ROUND |
+| 8 | [Completed-Order Spending Above 10,000](questions/Q08-completed-spending-over-10000.md) | SUM, GROUP BY, HAVING |
+
 
 
 
